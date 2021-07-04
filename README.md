@@ -1,2 +1,3 @@
 # Discord-Weather-Bot
-A discord bot that displas the weater of any city all over the world
+A discord bot that displays the weather of any city all over the world
+Sntax - w.[city name]
